@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +69,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+=======
+# desafio02-github-com-react
+Neste Desafio de Projeto você irá criar uma Wiki para salvar alguns repositórios do GitHub. Você irá aprender a como consumir a API do GitHub e como listar repositórios de interesse. Tudo isso aplicando os conceitos aprendidos de JavaScript e React.
+>>>>>>> ca7b46f1b6356fde14b6b5c5224c4970291764a7
